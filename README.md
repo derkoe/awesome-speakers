@@ -180,6 +180,12 @@ https://twitter.com/ddprrt
 
 ### Salzburg
 
+<img src="https://pbs.twimg.com/profile_images/900598520469696512/8-SYZgma_400x400.jpg" height="70px" width="auto" align="left" alt="Christian Köberl" />
+
+Christian Köberl  
+Topics: Software Architecture, TypeScript, Kubernetes, OpenShift  
+https://twitter.com/derkoe &bull; https://speakerdeck.com/derkoe
+
 <img src="https://pbs.twimg.com/profile_images/861132772366331905/4xts32Lq_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 Lisi Linhart  
